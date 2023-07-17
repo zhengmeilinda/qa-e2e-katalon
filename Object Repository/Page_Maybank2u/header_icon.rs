@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>header_icon</name>
+   <tag></tag>
+   <elementGuidId>15fe9977-d472-43f2-b3df-e52a40226297</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.Header---icon---WL9cv.Header---iconMenu---3D2WH.Header---gold---rBtH8.pointer</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[@id='mainNav']/div/div/div[2]/div/ul/li[6]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4b288ae7-2a9a-42b7-b39b-93a1bbd314a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Header---icon---WL9cv Header---iconMenu---3D2WH Header---gold---rBtH8 pointer</value>
+      <webElementGuid>2a26a377-36ed-441f-a3c2-60b925be4503</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainNav&quot;)/div[@class=&quot;container-fluid Header---heightInherit---3fY2U&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-8 col-sm-8 col-xs-7 Header---noPadRight---QLE8a&quot;]/div[@class=&quot;Header---rightSideHeader---4wodI&quot;]/ul[@class=&quot;nav navbar-nav white navbar-right Header---navbar-right-shift---28YOL&quot;]/li[6]/a[@class=&quot;Header---icon---WL9cv Header---iconMenu---3D2WH Header---gold---rBtH8 pointer&quot;]</value>
+      <webElementGuid>b26c8384-650c-4668-aafd-c0b4b98803b5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='mainNav']/div/div/div[2]/div/ul/li[6]/a</value>
+      <webElementGuid>5656b8e7-a5b5-4a9e-809c-5f28cbce61f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/a</value>
+      <webElementGuid>81c376cf-25e6-4557-a04e-becd268a1769</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

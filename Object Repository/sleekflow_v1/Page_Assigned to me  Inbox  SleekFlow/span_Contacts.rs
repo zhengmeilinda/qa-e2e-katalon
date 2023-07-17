@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Contacts</name>
+   <tag></tag>
+   <elementGuidId>2d5ec60c-3d7b-4100-881a-3ec77dc62c6a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app-sidebar-pusher']/div/div/div/span[2]/div/div[2]/div/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4d0598d5-1d8d-476d-8151-95d940e56252</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>212887cc-eab3-48ee-a81c-d9a4f84fd002</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Contacts </value>
+      <webElementGuid>2a149259-b364-4bf2-84cb-0ec3fe4f7104</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app-sidebar-pusher&quot;)/div[@class=&quot;post-login&quot;]/div[@class=&quot;postlogin-container&quot;]/div[@class=&quot;ui postlogin menu&quot;]/span[@class=&quot;menu-item-dropdown item menuItem
+      SubMenu_root__3gO3W&quot;]/div[@class=&quot;ui dropdown menu-item-dropdown&quot;]/div[@class=&quot;menu transition main-menu-dropdown contacts-menu SubMenu_nestedMenu__2p1iR&quot;]/div[@class=&quot;item SubMenu_item__3Ya4r&quot;]/a[1]/span[@class=&quot;text&quot;]</value>
+      <webElementGuid>d185362b-a62a-4c62-8eef-76b03a51ce95</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app-sidebar-pusher']/div/div/div/span[2]/div/div[2]/div/a/span</value>
+      <webElementGuid>d3b9dfc4-deb0-4893-bcf1-f09aaffc061f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contacts'])[1]/following::span[1]</value>
+      <webElementGuid>cb894e30-4c68-4faf-9689-9e19c156f632</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inbox'])[1]/following::span[2]</value>
+      <webElementGuid>b9f2f5f1-8dc7-48da-8fa8-bfbccd9b3abc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lists'])[1]/preceding::span[1]</value>
+      <webElementGuid>d6b79b51-591a-4993-8a89-dea66ad10f5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Broadcasts'])[1]/preceding::span[2]</value>
+      <webElementGuid>6442b626-5542-4699-b471-f3e6da76ab4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/span</value>
+      <webElementGuid>cd1c053b-54c2-480a-8af8-bf8e48885022</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Contacts ' or . = 'Contacts ')]</value>
+      <webElementGuid>7b911515-fcf3-4902-aa78-53a8f25743ec</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

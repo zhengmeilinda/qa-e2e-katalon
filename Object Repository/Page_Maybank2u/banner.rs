@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>banner</name>
+   <tag></tag>
+   <elementGuidId>e78474a2-957d-482b-b85f-46ea3964f209</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.Header---intro-lead-in---3jqOk</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div/div/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>be15b36b-e3cb-4f49-95b4-4b425d1bde1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Header---intro-lead-in---3jqOk</value>
+      <webElementGuid>ec22bce0-7325-4d7c-9f4a-e28184478ee7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Humanising Financial Services</value>
+      <webElementGuid>a860ec20-bbf3-4bac-8104-0ebdbec2eb18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;core---childContainer---2GFqG container-fluid&quot;]/div[@class=&quot;login---loginContainer---216o2 login---freeze---C65sE row&quot;]/div[2]/div[@class=&quot;Header---container---kBsDt&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;Header---header---2-wUx&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;Header---intro-text---2RfhY&quot;]/div[@class=&quot;Header---intro-lead-in---3jqOk&quot;]</value>
+      <webElementGuid>73b46c38-b9bd-4a4a-8fb9-1aa4c3be453b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/div/div/div/div/div</value>
+      <webElementGuid>1138c372-f9a8-4683-a21e-dc490724e9e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='REGISTER NOW'])[1]/following::div[4]</value>
+      <webElementGuid>8df9837a-38c4-407c-b0ad-84a34f184412</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='APPLY PRODUCTS ONLINE'])[1]/following::div[4]</value>
+      <webElementGuid>c5107ddd-a147-4602-a277-47558d8c05b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LOGIN'])[1]/preceding::div[3]</value>
+      <webElementGuid>b2bea3a4-a323-4932-a25c-5134c4342827</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Humanising Financial Services']/parent::*</value>
+      <webElementGuid>71f3f742-7344-4ffe-a18d-6ada8a56c769</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/div/div/div/div/div</value>
+      <webElementGuid>ddc7fec6-c01a-4abe-9521-47bb59807d3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Humanising Financial Services' or . = 'Humanising Financial Services')]</value>
+      <webElementGuid>18709792-5326-4890-a72a-d2ee7824a08e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
