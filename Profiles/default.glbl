@@ -4,4 +4,9 @@
    <name>default</name>
    <tag></tag>
    <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://sso-dev.sf.chat/u/login?state=hKFo2SA2RGRyT0Ytd1BGaThEdXVmVFN0VkxwcGJRTGdudFZYb6Fur3VuaXZlcnNhbC1sb2dpbqN0aWTZIHdHWjlnMTVGSGZPQzVTRXpPSkFYSHUzZHE1d0tyaE9oo2NpZNkgcmRxdk1IVm9hZ1p6ZWRCN0dUUEF3cE1pa0k0RWpXV2I&amp;ui_locales=en\n'</initValue>
+      <name>v1_url</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
