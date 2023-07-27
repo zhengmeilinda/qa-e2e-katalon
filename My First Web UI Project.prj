@@ -6,6 +6,7 @@
    <UUID>828dd597-ee8c-4cbc-8bdc-4c1fb0349e66</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>/Users/meilindazheng/e2e-v1/My First Web UI Project.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
