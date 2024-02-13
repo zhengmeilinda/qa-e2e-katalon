@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>elementById</name>
+   <name>elementByHref</name>
    <tag></tag>
-   <elementGuidId>70350faf-04cf-43b3-a173-d8b798224acc</elementGuidId>
+   <elementGuidId>3e24d5ce-e101-4068-aee7-54653cc92bc6</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//*[@id=&quot;${element}&quot;]</value>
+         <value>//*[@href=&quot;${element}&quot;]</value>
       </entry>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

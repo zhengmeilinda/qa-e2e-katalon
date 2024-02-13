@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>v2-Failed search non existing contact by name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>09ea6500-c57b-4b43-aa2c-2f0ebfce8889</testCaseGuid>
+</TestCaseEntity>

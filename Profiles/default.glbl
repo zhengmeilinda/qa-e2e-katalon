@@ -9,4 +9,9 @@
       <initValue>'https://sso-dev.sf.chat/u/login?state=hKFo2SA2RGRyT0Ytd1BGaThEdXVmVFN0VkxwcGJRTGdudFZYb6Fur3VuaXZlcnNhbC1sb2dpbqN0aWTZIHdHWjlnMTVGSGZPQzVTRXpPSkFYSHUzZHE1d0tyaE9oo2NpZNkgcmRxdk1IVm9hZ1p6ZWRCN0dUUEF3cE1pa0k0RWpXV2I&amp;ui_locales=en\n'</initValue>
       <name>v1_url</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://sso-staging.sleekflow.io/u/login?state=hKFo2SBUQlZfOWF4bmxmb0JNazVDLXBqU0Q1dXpiRGtBc2pZcaFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIHVyWXl4R1ViUkZKeXg0Zk5VbjZyZFlVcDBlaEZVWmozo2NpZNkgZTFsckxyZmZ4ODNaMDczdERrUnFsUWs3V2kwSm5uUDk&amp;ui_locales=en'</initValue>
+      <name>v2_staging2</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

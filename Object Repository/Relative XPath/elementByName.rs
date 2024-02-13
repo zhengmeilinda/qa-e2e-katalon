@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>elementById</name>
+   <name>elementByName</name>
    <tag></tag>
-   <elementGuidId>70350faf-04cf-43b3-a173-d8b798224acc</elementGuidId>
+   <elementGuidId>1da20f01-445e-4c61-882a-12ccfe38a16d</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//*[@id=&quot;${element}&quot;]</value>
+         <value>//*[@name=&quot;${element}&quot;]
+</value>
       </entry>
       <entry>
          <key>BASIC</key>
